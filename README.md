@@ -2,5 +2,7 @@
 
 Info:
 --------------------------------------------------------------------
-Kali client is free open source client on github
-Kali client is aviable for 1.8.9 - 1.12.2
+Kali Client is free open src utility mod for 1.12.2 anarchy servers
+
+Kali Client ONLY WOKRS ON WINDOWS 10, 11 and Kali Linux 2021 and higher versions
+
